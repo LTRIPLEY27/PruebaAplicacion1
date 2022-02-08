@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/descripcion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dp"
+        android:paddingTop="80dp"
+        android:text="@string/texto"
+        android:textSize="20dp"
+        tools:layout_editor_absoluteX="176dp"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <Button
+        android:id="@+id/gigantbutton"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:layout_below="@id/descripcion"
+        android:layout_marginTop="84dp"
+        android:paddingTop="80dp"
+        android:text="@string/buttonYes"
+        android:textSize="60dp"
+        tools:layout_editor_absoluteX="162dp"
+        tools:layout_editor_absoluteY="245dp" />
+
+</RelativeLayout>

@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">PruebaAplicacion</string>
     <string name="texto1">INICIA SESION</string>
+    <string name="connectText">Quieres conectarte?</string>
+    <string name="buttonYes">Sí</string>
+    <string name="buttonNo">No</string>
+    <string name="edita">Introduce contraseña</string>
+    <string name="texto">La siguiente página contiene contenido sensible para algunos, entre bajo su propio riesgo</string>
 </resources>

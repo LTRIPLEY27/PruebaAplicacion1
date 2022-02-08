@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="50dp"
+    android:paddingTop="50dp"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/connectText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/connectText"
+        android:textSize="20dp"
+        android:paddingLeft="80dp"
+        android:textColor="@color/red"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="87dp" />
+
+    <EditText
+        android:id="@+id/Edita"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/edita"
+        android:textSize="15dp"
+        android:paddingLeft="80dp"
+        android:paddingTop="100dp"
+        android:textColor="@color/purple_500"
+        tools:layout_editor_absoluteX="159dp"
+        tools:layout_editor_absoluteY="87dp" />
+
+    <Button
+        android:id="@+id/buttonYes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonYes"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="238dp" />
+
+    <Button
+        android:id="@+id/buttonNo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/buttonNo"
+        tools:layout_editor_absoluteX="267dp"
+        tools:layout_editor_absoluteY="237dp" />
+
+</LinearLayout>
