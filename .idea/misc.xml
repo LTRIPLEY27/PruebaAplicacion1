@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout-land/activity_main.xml" value="0.2310405643738977" />
         <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout-ldltr/activity_conect.xml" value="0.33" />
         <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout/activity_description.xml" value="0.33" />
+        <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout/activity_exemple.xml" value="0.33" />
         <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/isabe/AndroidStudioProjects/PruebaAplicacion/app/src/main/res/layout/conect_main_xml.xml" value="0.25" />
       </map>

@@ -10,7 +10,7 @@
 
     <TextView
         android:id="@+id/connectText"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/connectText"
         android:textSize="20dp"
@@ -21,7 +21,7 @@
 
     <EditText
         android:id="@+id/Edita"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/edita"
         android:textSize="15dp"
@@ -33,16 +33,19 @@
 
     <Button
         android:id="@+id/buttonYes"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
         android:text="@string/buttonYes"
         tools:layout_editor_absoluteX="62dp"
         tools:layout_editor_absoluteY="238dp" />
 
     <Button
         android:id="@+id/buttonNo"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="120dp"
         android:text="@string/buttonNo"
         tools:layout_editor_absoluteX="267dp"
         tools:layout_editor_absoluteY="237dp" />

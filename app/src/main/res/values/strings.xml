@@ -6,4 +6,6 @@
     <string name="buttonNo">No</string>
     <string name="edita">Introduce contraseña</string>
     <string name="texto">La siguiente página contiene contenido sensible para algunos, entre bajo su propio riesgo</string>
+    <string name="salir">Salir</string>
+    <string name="entrar">Entrar</string>
 </resources>
